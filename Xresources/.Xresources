@@ -1,8 +1,12 @@
 !rxvt -fn "xft:Inconsolata-dz:pixelsize=12,style=dz"
 ! Using Xft
-!uRxvt*font:           xft:Inconsolata-dz:size=10:antialias=true:
+!uRxvt*font:           xft:Inconsolata:size=14:antialias=true:
 !
-URxvt*font: xft:Source\ Code\ Pro\ Medium:pixelsize=13:antialias=true:hinting=true,xft:Source\ Code\ Pro\ Medium:pixelsize=13:antialias=true:hinting=true
+!URxvt*font: xft:Source\ Code\ Pro\ Medium:pixelsize=13:antialias=true:hinting=true,xft:Source\ Code\ Pro\ Medium:pixelsize=13:antialias=true:hinting=true
+
+!URxvt.font: xft:Inconsolata\ for\ Powerline:pixelsize=14:antialias=true
+!
+URxvt.font: xft:InconsolataForPowerline\ Nerd\ Font:pixelsize=15:antialias=true:hinting=true, xft:Wuncon\ Siji:pixelsize=13
 ! do not scroll with output
 URxvt*scrollTtyOutput: false
 
