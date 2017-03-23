@@ -13,6 +13,5 @@ For Arch users, make sure you install these first:<br>
 
 ## deprecated:
 I don't use these anymore, but I may switch back someday:<br>
-<s> * <a href="https://aur.archlinux.org/packages/i3-git/">i3-git</a><br>
-</s> <br> 
-<s> * <a href="https://aur.archlinux.org/packages/lemonbar-git/">lemonbar-git</a></s><br>
+* <s><a href="https://aur.archlinux.org/packages/i3-git/">i3-git</a> </s> <br> 
+* <s><a href="https://aur.archlinux.org/packages/lemonbar-git/">lemonbar-git</a></s><br>
